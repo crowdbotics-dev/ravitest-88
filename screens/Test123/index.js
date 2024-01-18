@@ -9,7 +9,7 @@ const Test123 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><Text style={styles.WVBptNbg}>Lorem ipsum…</Text></ScrollView>
+    }}><Text style={styles.WVBptNbg}>{"Ravinder yadav"}</Text></ScrollView>
     </SafeAreaView>;
 };
 
